@@ -1,6 +1,6 @@
 {
   "name": "transilien-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An asynchronous client library for the Transilien API.",
   "keywords": [
     "transilien",
